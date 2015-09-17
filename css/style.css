@@ -1,0 +1,34 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100vw;
+  min-height: 100vh;
+}
+
+
+.wrap {
+  width: 100%;
+}
+
+.iphone {
+  background-image: url("../images/iphone6-11.png");
+  display: block;
+  height: 700px;
+  width: 500px;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+
+header {
+  text-align: center;
+}
+
+#images {
+  height: 100%;
+}
+
+
