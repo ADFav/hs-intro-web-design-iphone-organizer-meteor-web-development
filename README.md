@@ -12,3 +12,4 @@ If you look at the site in the browser, you'll notice the icons are all clumped 
 You should have `index.html` open in the browser and the text editor. You'll be coding your solution in `css/organizer.css`. Don't worry about `css/style.css` or `css/normalize.css`.
 
 Your job is to get the app icons on the iPhone just like in the picture above. You can use absolute or relative positioning to get the job done. Remember, there is no "right" answer to this. As long as your code make the iPhone look the way you want it to, you did it right!
+<a href='https://learn.co/lessons/hs-intro-web-design-iphone-organizer' data-visibility='hidden'>View this lesson on Learn.co</a>
